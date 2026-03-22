@@ -1,0 +1,29 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute,distance
+Kaoru Mitoma,True,save,assisted,left-foot,3.9,35.2,0.098975606262684,90,116.19918244118588
+Yasin Ayari,True,block,corner,right-foot,9.1,53.8,0.071870014071465,87,111.75531307280205
+Jan Paul van Hecke,True,save,corner,head,4.0,39.3,0.045228820294142,87,116.00211204973813
+Cody Gakpo,False,save,fast-break,right-foot,9.8,28.4,0.034477915614843,86,110.80884441234824
+Federico Chiesa,False,block,fast-break,left-foot,9.5,33.1,0.071349278092384,78,110.71522027255331
+Diego Gómez,True,miss,corner,right-foot,9.1,72.8,0.017983751371503,71,115.64882187035025
+Danny Welbeck,True,block,corner,right-foot,10.5,48.0,0.070373199880123,71,109.79184851344839
+James Milner,True,miss,corner,right-foot,15.6,62.6,0.039589144289494,71,106.81816324951482
+Yankuba Minteh,True,save,fast-break,left-foot,8.0,34.0,0.23100651800632,68,112.16059914247963
+Alexis Mac Allister,False,miss,corner,head,8.2,55.4,0.078821487724781,65,112.8556600264249
+Curtis Jones,False,save,assisted,left-foot,12.0,64.9,0.06112777069211,64,110.83325313280307
+Diego Gómez,True,save,free-kick,right-foot,19.8,27.6,0.044146243482828,62,100.96435014399886
+Danny Welbeck,True,goal,assisted,left-foot,3.3,48.6,0.76099216938019,56,117.01645183477407
+Mats Wieffer,True,miss,corner,head,6.1,51.2,0.14660137891769,53,114.44933376826621
+Ferdi Kadıoğlu,True,save,assisted,right-foot,23.7,45.7,0.021565563976765,52,96.46854409599017
+Florian Wirtz,False,save,regular,right-foot,12.5,69.5,0.039403401315212,45,111.47421226454125
+Alexis Mac Allister,False,block,assisted,right-foot,15.3,76.1,0.017100114375353,45,110.7488148920791
+James Milner,True,miss,corner,left-foot,22.6,56.6,0.027420613914728,45,98.80445334092992
+Mats Wieffer,True,miss,regular,right-foot,23.5,55.4,0.022893978282809,38,97.72108267922536
+Jack Hinshelwood,True,miss,assisted,left-foot,23.8,47.7,0.04333708807826,32,96.5076680891213
+Miloš Kerkez,False,goal,regular,left-foot,13.6,46.8,0.37208154797554,30,106.61707180372194
+Dominik Szoboszlai,False,miss,free-kick,right-foot,24.7,43.5,0.063451126217842,24,95.36424906640853
+Alexis Mac Allister,False,save,assisted,head,10.4,54.0,0.041318021714687,22,110.49054258170696
+Diego Gómez,True,miss,assisted,head,6.7,50.7,0.29244229197502,21,113.80412997778244
+Cody Gakpo,False,block,assisted,right-foot,12.1,38.3,0.070680305361748,16,107.91339119868303
+Danny Welbeck,True,goal,throw-in-set-piece,head,2.6,45.0,0.24286292493343,14,117.5064253562332
+Dominik Szoboszlai,False,miss,fast-break,right-foot,50.7,41.8,0.011476962827146,10,69.32337268194617
+Dominik Szoboszlai,False,miss,assisted,right-foot,14.7,66.2,0.017744990065694,10,108.51050640375797
