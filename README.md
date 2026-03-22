@@ -50,3 +50,7 @@ Teams that consistently create high-probability chances gain a decisive edge.
 ---
 
 ## 📂 Project Structure
+├── data/
+├── notebooks/
+├── visuals/
+└── README.md
